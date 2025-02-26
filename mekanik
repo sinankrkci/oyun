@@ -1,0 +1,4 @@
+Hareket(x,y){
+  a = x;
+  b = y;
+}
