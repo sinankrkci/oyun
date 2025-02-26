@@ -1,4 +1,5 @@
 Hareket(x,y){
   a = x;
   b = y;
+  c = a+b;
 }
